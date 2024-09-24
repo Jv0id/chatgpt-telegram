@@ -8,7 +8,7 @@ require (
 	github.com/launchdarkly/eventsource v1.7.1
 	github.com/playwright-community/playwright-go v0.2000.1
 	github.com/spf13/viper v1.14.0
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
