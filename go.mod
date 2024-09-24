@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/go-telegram-bot-api/telegram-bot-api/v5 v5.5.1
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.6.0
 	github.com/launchdarkly/eventsource v1.7.1
 	github.com/playwright-community/playwright-go v0.2000.1
 	github.com/spf13/viper v1.14.0
