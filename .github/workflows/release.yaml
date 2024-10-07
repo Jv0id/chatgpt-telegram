@@ -29,7 +29,7 @@ jobs:
         if: matrix.goos == 'windows'
         run: echo "OS_NAME=Win" >> $GITHUB_ENV
       - uses: actions/checkout@v3
-      - uses: wangyoucao577/go-release-action@v1.34
+      - uses: wangyoucao577/go-release-action@v1.52
         with:
           md5sum: false
           extra_files: README.md LICENSE env.example
